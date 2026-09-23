@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7ae2f52cc83e43fbdce7d083",
+  "owner": "amjgaa",
+  "repo": "page-f838047207d7cb355827058d",
+  "title": "呆呆云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f838047207d7cb355827058d",
+      "a": "呆呆云",
+      "b": "稳定全球clash加速器",
+      "entity": "呆呆云",
+      "brand": "呆呆云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3ea692f0f0bcc2c1ca3b25ab0db7d1580522fed60bb162022ac7990567768a36",
+      "content": {
+        "primary_entity": "呆呆云",
+        "keyword1": "呆呆云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "在手机、电脑和路由器上选择适配的 Clash 客户端，导入订阅即可开始使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "挑选适合的套餐，导入订阅，即可让多设备顺畅访问全球网络。",
+          "AI_CLOSING_TITLE": "即刻选套餐，连上呆呆云",
+          "AI_DESCRIPTION": "，套餐从基础版到团队版覆盖个人与团队场景，支持 Clash 订阅配置，设备数量与流量随版本递增，可按月或按年付费。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个角度对比套餐，找到合适自己的版本。",
+          "AI_FEATURES_TITLE": "套餐怎么选",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合单人日常浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线节点，适合游戏与高清流媒体。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，可定制企业路由，满足多人协作需求。",
+          "AI_FEATURE_TITLE_1": "轻量个人",
+          "AI_FEATURE_TITLE_2": "性能进阶",
+          "AI_FEATURE_TITLE_3": "多人团队",
+          "AI_GUIDE_INTRO": "选择服务的流程：确认套餐、检查设备适配、按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "呆呆云提供稳定全球网络加速服务，基于 Clash 订阅配置，满足日常浏览、流媒体与游戏加速需求。",
+          "AI_HERO_SUBTITLE": "稳定全球加速，多设备顺畅连接",
+          "AI_HIGHLIGHT_1": "基础版 100GB 流量，适合轻量使用",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线，优化游戏延迟",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备，支持定制路由",
+          "AI_PLANS_INTRO": "基础版月付 ¥15 或年付 ¥150，旗舰版月付 ¥35 或年付 ¥350，团队版月付 ¥85 或年付 ¥850，按流量和设备数选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据使用人数、流量需求和设备数量，在基础版、旗舰版、团队版中选择合适套餐。",
+          "AI_STEP_TEXT_2": "确认设备系统与 Clash 客户端版本，查看订阅链接的适配要求。",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅地址，按照配置文档完成节点选择与连接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "呆呆云全球加速",
+          "AI_FAQ_ANSWER_1": "按每月流量和设备数判断。单人手机加电脑，基础版 100GB 与 3 台设备够用；常看视频或需要 IPLC 线路，选旗舰版 300GB 与 5 台设备；多人共享选团队版。",
+          "AI_FAQ_ANSWER_2": "年付比月付更省。基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，适合确定长期使用的场景，短期可先按月订阅体验。",
+          "AI_FAQ_ANSWER_3": "订阅地址在购买后获取，导入客户端即可使用。不同客户端导入方式有差异，按对应客户端文档填写订阅链接，避免手动添加节点出错。",
+          "AI_FAQ_ANSWER_4": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。设备数指同时在线数量，路由器全局使用会占用更多连接数，可据此选择。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线与全节点流媒体解锁，适合游戏和视频；基础版为普通线路节点池，用于日常浏览足够。团队版提供 VIP 高带宽节点和企业定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "呆呆云哪档套餐适合我？",
+          "AI_FAQ_QUESTION_2": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_3": "订阅地址如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_5": "旗舰版比基础版多了什么？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--kbtz0ztjtvlp.org",
+    "host": "xn--kbtz0ztjtvlp.org"
+  },
+  "file_hashes": {
+    "index.html": "e55e24feae88c0ffa63c528c335d87db4b7cc6d52d1ebc39b9ecc242b6bbe789",
+    "sitemap.xml": "2015c7a1f2b18510da25ca543f26aa4fae33f0382336aca2c7d472d5727206b3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bfbeaa446ac7e309db1e98c973752723892d3f0374e60fb39ceeab3d6c734eee",
+    "robots.txt": "cec5014c2aafba541f34aefc8215072f142f39c19325ae394f303513ba79a1e0",
+    "af00f60d0e8abbef6934bb7bab2cac9f.txt": "bbeca84c729577c33bc31bbf575c2d468cca20d872ce39e8f52d4fdfcc333580"
+  },
+  "revision": "f451c793a68c55be0cddfc95b53b69b5a71a42b8b8ab7042abce0f89a872c84f"
+}
